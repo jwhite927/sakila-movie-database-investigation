@@ -3,6 +3,8 @@ July 2020: An investigation of the Sakila Movie Database.
 
 This project is part of the Nanodegree Program "Programming for Data Science with Python" on Udacity
 
+![family-rental-habits](img/family-rental-habits.png)
+
 # Description
 The queries written in [queries.sql](queries.sql) were used to gather data and populate [the report presentation](Sakila_Database_Investigation.pdf).
 
