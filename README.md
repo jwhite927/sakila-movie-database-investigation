@@ -1,5 +1,6 @@
 # Introduction
-July 2020: An investigation of the Sakila Movie Database
+July 2020: An investigation of the Sakila Movie Database.
+
 This project is part of the Nanodegree Program "Programming for Data Science with Python" on Udacity
 
 # Description
