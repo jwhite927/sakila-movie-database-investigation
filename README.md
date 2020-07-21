@@ -15,3 +15,7 @@ The queries written in [queries.sql](queries.sql) were used to gather data and p
 # Credits
 
 [Sakila](https://dev.mysql.com/doc/sakila/en/) is a sample database.
+
+# License
+
+This project is licensed under the [MIT License](LICENSE)
